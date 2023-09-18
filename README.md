@@ -5,7 +5,7 @@ In this scenerio, I'm determing which employee devices must be updated. I also i
 <br />
 
 <h4>MariaDB shell<h4>
-<h2>Linux commands</h2>
+<h2>SQL operators</h2>
 
 - <b>SELECT</b> 
 - <b>FROM</b>
