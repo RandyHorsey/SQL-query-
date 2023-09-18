@@ -15,9 +15,14 @@ In this scenerio, I'm determing which employee devices must be updated. I also i
 
  <h4>
 Retrieved employee device data: </h4>
-<img src="https://imgur.com/31KOFMJ.png" height="65%" width="70%" alt="Security Audit"/>
+<img src="https://imgur.com/Te2hiCk.png" height="65%" width="70%" alt="Security Audit"/>
+<img src="https://imgur.com/ewEt0WS.png" height="65%" width="70%" alt="Security Audit"/>
+<img src="https://imgur.com/Beec55B.png" height="65%" width="70%" alt="Security Audit"/>
 <h4>
 Investigated login activity:  </h4>
-<img src="https://imgur.com/PpixYsB.png" height="65%" width="65%" alt="Security Audit"/>
+<img src="https://imgur.com/yJe3jQ7.png" height="65%" width="70%" alt="Security Audit"/>
+<img src="https://imgur.com/sbiEUm5.png" height="65%" width="70%" alt="Security Audit"/>
+<img src="https://imgur.com/zY4DHIK.png" height="65%" width="70%" alt="Security Audit"/>
 <h4>Ordered login attempts data:  </h4>
-<img src="https://imgur.com/TMCtycA.png" height="65%" width="65%" alt="Security Audit"/>
+<img src="https://imgur.com/thVTo6H.png" height="65%" width="65%" alt="Security Audit"/>
+<img src="https://imgur.com/0OYIbQ7.png" height="65%" width="65%" alt="Security Audit"/>
